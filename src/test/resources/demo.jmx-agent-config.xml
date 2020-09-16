@@ -1,0 +1,14 @@
+<root>
+  <ObjNames name="metrics:type=timers,name=controller.class.it.minetti.demo.DemoApplication$DemoController.exception.*.method.greetings">
+    <AttributeLong name="999thPercentile"/>
+    <AttributeLong name="99thPercentile"/>
+    <AttributeLong name="50thPercentile"/>
+    <AttributeLong name="Count"/>
+  </ObjNames>
+  <ObjNames name="metrics:type=timers,name=generator.class.it.minetti.demo.DemoApplication$GreetingsGenerator.exception.*.method.generateGreeting">
+    <AttributeLong name="999thPercentile"/>
+    <AttributeLong name="99thPercentile"/>
+    <AttributeLong name="50thPercentile"/>
+    <AttributeLong name="Count"/>
+  </ObjNames>
+</root>
