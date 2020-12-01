@@ -2,7 +2,7 @@
 
 ### Goal
 
-The purpose of this project is create a simple maven plugin and test it.
+The purpose of this project is create a simple maven plugin and test it. Actual purpose is to test it, in an automated way.
 
 ### Implementation
 
